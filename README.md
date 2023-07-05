@@ -5,3 +5,8 @@
 
 Try it out: https://www.instagram.com/ar/645073594163797/
 
+# Credits
+Base filter from https://github.com/powermobileweb/SparkArShader
+
+
+
